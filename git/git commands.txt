@@ -1,0 +1,44 @@
+e:\> md cglocalrepo1
+e:\>cg cglocalrepo1
+e:\cglocalrepo1>git init
+
+
+
+
+git init
+
+git add README.md
+
+git status
+
+git add  Hello.java 
+
+git commit -m "first commit"
+git branch -M main
+
+
+git remote add origin 
+
+git remote add origin https://github.com/arunajava567/cgremoterepo1.git
+
+git config --global user.name "arunajava567"
+
+git config --global user.password "xxxxxxx"
+
+git config --global user.email "xxxxxxx"
+
+git push -u origin main
+
+
+git clone
+
+git fetch
+
+git pull
+
+git branch -name
+
+git tag 
+
+
+git clone https://github.com/arunajava567/cgremoterepo1
