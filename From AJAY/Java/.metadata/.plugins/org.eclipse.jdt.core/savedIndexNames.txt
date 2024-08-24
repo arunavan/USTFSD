@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\AJAYMON\AJAY\AJ1\JOB\UST Training\Aruna Ma'am Class\Java\.metadata\.plugins\org.eclipse.jdt.core
+3803894794.index
+1865797976.index
+4259446165.index
